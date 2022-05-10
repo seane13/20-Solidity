@@ -11,7 +11,7 @@ To compile and deploy this contract for test purposes, I used [Remix](https://re
 ## Transaction images
 
 ![Deposit 1](https://github.com/seane13/20-Solidity/blob/trunk/images/deposit_1.png)
-![Deposit 2](../deposit_2.png)
-![Deposit 3](../Screen Shot 2022-05-09 at 5.28.09 PM (2).png)
-![Withdraw 1](../withdraw_1.png)
-![Withdraw 2](../withdraw_2.png)
+![Deposit 2](https://github.com/seane13/20-Solidity/blob/trunk/images/deposit_2.png)
+![Deposit 3](https://github.com/seane13/20-Solidity/blob/trunk/images/Screen%20Shot%202022-05-09%20at%205.28.09%20PM%20(2).png)
+![Withdraw 1](https://github.com/seane13/20-Solidity/blob/trunk/images/withdraw_1.png)
+![Withdraw 2](https://github.com/seane13/20-Solidity/blob/trunk/images/withdraw_2.png)
