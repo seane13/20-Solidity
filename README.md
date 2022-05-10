@@ -7,3 +7,11 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 ## Resources
 To compile and deploy this contract for test purposes, I used [Remix](https://remix.ethereum.org/). Within Remix, I used the JavaScript Virtual machine.
+
+## Transaction images
+
+![Deposit 1](/Deposit1.png)
+![Deposit 2](/Deposit2.png)
+![Deposit 3](/Deposit3.png)
+![Withdraw 1](/Withdraw1.png)
+![Withdraw 2](/Withdraw2.png)
