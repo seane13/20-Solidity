@@ -10,8 +10,8 @@ To compile and deploy this contract for test purposes, I used [Remix](https://re
 
 ## Transaction images
 
-![Deposit 1](deposit_1.png)
-![Deposit 2](deposit_2.png)
-![Deposit 3](Screen Shot 2022-05-09 at 5.28.09 PM (2).png)
-![Withdraw 1](withdraw_1.png)
-![Withdraw 2](withdraw_2.png)
+![Deposit 1](../deposit_1.png)
+![Deposit 2](../deposit_2.png)
+![Deposit 3](../Screen Shot 2022-05-09 at 5.28.09 PM (2).png)
+![Withdraw 1](../withdraw_1.png)
+![Withdraw 2](../withdraw_2.png)
